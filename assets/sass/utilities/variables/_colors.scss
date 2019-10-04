@@ -9,14 +9,14 @@ $link__hoverColor: #333;
 $body__backgroundColor: #eee;
 
 //
-// Header Colors
-//==============
+// Header
+//=======
 $siteHeader__BackgroundColor: $white;
 $siteTitle__LinkColor: #333;
 
 //
-// Navigation Color
-//=================
+// Navigation
+//===========
 $nav__LinkColor: #333;
 $nav__HoverColor: #c3251d;
 
@@ -45,18 +45,23 @@ $archivePagination__HoverColor: $white;
 
 
 //
-// Footer Color
-//=================
+// Footer
+//=======
 $siteFooter__BackgroundColor: $white;
 $siteFooter__BorderColor: #eee;
 $footerWidgets__BackgroundColor: $white;
 
 //
-// Entry Content Color
-======================
+// Entry Content
+================
 $entryFooter__Meta__BackgroundColor: #eee;
 $entry__BackgroundColor: $white;
 $entryTitle__LinkColor: #333;
 $entryTitle__HoverColor: #c3251d;
 $entryContent__Code__BackgroundColor: #eee;
 $entryContent__Code__Color: #333;
+
+//
+// Comments
+//=========
+$comment__BackgroundColor: $white;
