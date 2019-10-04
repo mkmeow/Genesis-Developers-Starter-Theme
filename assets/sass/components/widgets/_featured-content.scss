@@ -12,7 +12,6 @@
   }
 
   .entry-title {
-    font-size: 20px;
-    font-size: 2rem;
+    font-size: ren( $featuredContent__EntryTitle__FontSize );
   }
 }
