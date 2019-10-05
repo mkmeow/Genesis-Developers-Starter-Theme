@@ -1,9 +1,14 @@
 /* Component Modules
 --------------------------------------------- */
 
+@import "avatar";
+@import "buttons";
+@import "accessibility/index";
+@import "author-box/index";
 @import "comments/index";
-@import "entry/index";
+@import "content/index";
 @import "footer/index";
 @import "header/index";
 @import "navigation/index";
+@import "sidebars";
 @import "widgets/index";
